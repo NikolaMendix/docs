@@ -99,6 +99,7 @@ The list below is provided to enable you to quickly evaluate if Mendix supports 
 | Belarusian | Belarus | be_BY | 9.0.5 |
 | Bengali | Bangladesh | bn_BD | 9.3.0 |
 | Bengali | India | bn_IN | 9.3.0 |
+| Bosnian | Bosnia and Herzegovina | bs_BA | 10.17.0 |
 | Bulgarian | Bulgaria | bg_BG | 9.0.5 |
 | Catalan | Spain | ca_ES | 9.0.5 |
 | Chinese (Mandarin) | China | zho_CN | 9.18.0 |
